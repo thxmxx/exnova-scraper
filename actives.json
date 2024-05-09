@@ -1,0 +1,10080 @@
+{
+  "1": {
+    "name": "front.EURUSD",
+    "group_id": 1,
+    "image": "/storage/public/5a/c8/f1a43625d.png",
+    "description": "front.EUR/USD",
+    "exchange": "front.exchange_eurusd",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 1,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284800": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715365800": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717180200": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715212801,
+        1715284800
+      ],
+      [
+        1715299201,
+        1715365800
+      ],
+      [
+        1715558401,
+        1715630400
+      ],
+      [
+        1715644801,
+        1715716800
+      ],
+      [
+        1715731201,
+        1715803200
+      ],
+      [
+        1715817601,
+        1715889600
+      ],
+      [
+        1715904001,
+        1715970600
+      ],
+      [
+        1716163201,
+        1716235200
+      ],
+      [
+        1716249601,
+        1716321600
+      ],
+      [
+        1716336001,
+        1716408000
+      ],
+      [
+        1716422401,
+        1716494400
+      ],
+      [
+        1716508801,
+        1716575400
+      ],
+      [
+        1716768001,
+        1716840000
+      ],
+      [
+        1716854401,
+        1716926400
+      ],
+      [
+        1716940801,
+        1717012800
+      ],
+      [
+        1717027201,
+        1717099200
+      ],
+      [
+        1717113601,
+        1717180200
+      ],
+      [
+        1717372801,
+        1717444800
+      ],
+      [
+        1717459201,
+        1717531200
+      ],
+      [
+        1717545601,
+        1717617600
+      ],
+      [
+        1717632001,
+        1717704000
+      ],
+      [
+        1717718401,
+        1717785000
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1381547581,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "EURUSD"
+  },
+  "2": {
+    "name": "front.EURGBP",
+    "group_id": 1,
+    "image": "/storage/public/5a/c8/f1ad8b90b.png",
+    "description": "front.EUR/GBP",
+    "exchange": "front.exchange_eurgbp",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 2,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715275800": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715362200": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717176600": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715230801,
+        1715275800
+      ],
+      [
+        1715317201,
+        1715362200
+      ],
+      [
+        1715576401,
+        1715621400
+      ],
+      [
+        1715662801,
+        1715707800
+      ],
+      [
+        1715749201,
+        1715794200
+      ],
+      [
+        1715835601,
+        1715880600
+      ],
+      [
+        1715922001,
+        1715967000
+      ],
+      [
+        1716181201,
+        1716226200
+      ],
+      [
+        1716267601,
+        1716312600
+      ],
+      [
+        1716354001,
+        1716399000
+      ],
+      [
+        1716440401,
+        1716485400
+      ],
+      [
+        1716526801,
+        1716571800
+      ],
+      [
+        1716786001,
+        1716831000
+      ],
+      [
+        1716872401,
+        1716917400
+      ],
+      [
+        1716958801,
+        1717003800
+      ],
+      [
+        1717045201,
+        1717090200
+      ],
+      [
+        1717131601,
+        1717176600
+      ],
+      [
+        1717390801,
+        1717435800
+      ],
+      [
+        1717477201,
+        1717522200
+      ],
+      [
+        1717563601,
+        1717608600
+      ],
+      [
+        1717650001,
+        1717695000
+      ],
+      [
+        1717736401,
+        1717781400
+      ]
+    ],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1381547581,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "EURGBP"
+  },
+  "3": {
+    "name": "front.GBPJPY",
+    "group_id": 1,
+    "image": "/storage/public/5a/c8/f1b6a4fcd.png",
+    "description": "front.GBP/JPY",
+    "exchange": "front.exchange_gbpjpy",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 3,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715275800": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715362200": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717176600": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715230801,
+        1715275800
+      ],
+      [
+        1715317201,
+        1715362200
+      ],
+      [
+        1715576401,
+        1715621400
+      ],
+      [
+        1715662801,
+        1715707800
+      ],
+      [
+        1715749201,
+        1715794200
+      ],
+      [
+        1715835601,
+        1715880600
+      ],
+      [
+        1715922001,
+        1715967000
+      ],
+      [
+        1716181201,
+        1716226200
+      ],
+      [
+        1716267601,
+        1716312600
+      ],
+      [
+        1716354001,
+        1716399000
+      ],
+      [
+        1716440401,
+        1716485400
+      ],
+      [
+        1716526801,
+        1716571800
+      ],
+      [
+        1716786001,
+        1716831000
+      ],
+      [
+        1716872401,
+        1716917400
+      ],
+      [
+        1716958801,
+        1717003800
+      ],
+      [
+        1717045201,
+        1717090200
+      ],
+      [
+        1717131601,
+        1717176600
+      ],
+      [
+        1717390801,
+        1717435800
+      ],
+      [
+        1717477201,
+        1717522200
+      ],
+      [
+        1717563601,
+        1717608600
+      ],
+      [
+        1717650001,
+        1717695000
+      ],
+      [
+        1717736401,
+        1717781400
+      ]
+    ],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1381547581,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "GBPJPY"
+  },
+  "4": {
+    "name": "front.EURJPY",
+    "group_id": 1,
+    "image": "/storage/public/5a/c8/f1c42651b.png",
+    "description": "front.EUR/JPY",
+    "exchange": "front.exchange_eurjpy",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 4,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284800": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715365800": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717180200": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715212801,
+        1715284800
+      ],
+      [
+        1715299201,
+        1715365800
+      ],
+      [
+        1715558401,
+        1715630400
+      ],
+      [
+        1715644801,
+        1715716800
+      ],
+      [
+        1715731201,
+        1715803200
+      ],
+      [
+        1715817601,
+        1715889600
+      ],
+      [
+        1715904001,
+        1715970600
+      ],
+      [
+        1716163201,
+        1716235200
+      ],
+      [
+        1716249601,
+        1716321600
+      ],
+      [
+        1716336001,
+        1716408000
+      ],
+      [
+        1716422401,
+        1716494400
+      ],
+      [
+        1716508801,
+        1716575400
+      ],
+      [
+        1716768001,
+        1716840000
+      ],
+      [
+        1716854401,
+        1716926400
+      ],
+      [
+        1716940801,
+        1717012800
+      ],
+      [
+        1717027201,
+        1717099200
+      ],
+      [
+        1717113601,
+        1717180200
+      ],
+      [
+        1717372801,
+        1717444800
+      ],
+      [
+        1717459201,
+        1717531200
+      ],
+      [
+        1717545601,
+        1717617600
+      ],
+      [
+        1717632001,
+        1717704000
+      ],
+      [
+        1717718401,
+        1717785000
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1381547581,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "EURJPY"
+  },
+  "5": {
+    "name": "front.GBPUSD",
+    "group_id": 1,
+    "image": "/storage/public/5a/c8/f1cd214a6.png",
+    "description": "front.GBP/USD",
+    "exchange": "front.exchange_gbpusd",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 5,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284800": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715365800": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717180200": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715212801,
+        1715284800
+      ],
+      [
+        1715299201,
+        1715365800
+      ],
+      [
+        1715558401,
+        1715630400
+      ],
+      [
+        1715644801,
+        1715716800
+      ],
+      [
+        1715731201,
+        1715803200
+      ],
+      [
+        1715817601,
+        1715889600
+      ],
+      [
+        1715904001,
+        1715970600
+      ],
+      [
+        1716163201,
+        1716235200
+      ],
+      [
+        1716249601,
+        1716321600
+      ],
+      [
+        1716336001,
+        1716408000
+      ],
+      [
+        1716422401,
+        1716494400
+      ],
+      [
+        1716508801,
+        1716575400
+      ],
+      [
+        1716768001,
+        1716840000
+      ],
+      [
+        1716854401,
+        1716926400
+      ],
+      [
+        1716940801,
+        1717012800
+      ],
+      [
+        1717027201,
+        1717099200
+      ],
+      [
+        1717113601,
+        1717180200
+      ],
+      [
+        1717372801,
+        1717444800
+      ],
+      [
+        1717459201,
+        1717531200
+      ],
+      [
+        1717545601,
+        1717617600
+      ],
+      [
+        1717632001,
+        1717704000
+      ],
+      [
+        1717718401,
+        1717785000
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1381547581,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "GBPUSD"
+  },
+  "6": {
+    "name": "front.USDJPY",
+    "group_id": 1,
+    "image": "/storage/public/5a/c8/f1d76908b.png",
+    "description": "front.USD/JPY",
+    "exchange": "front.exchange_usdjpy",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 6,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715275800": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715362200": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717176600": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715230801,
+        1715275800
+      ],
+      [
+        1715317201,
+        1715362200
+      ],
+      [
+        1715576401,
+        1715621400
+      ],
+      [
+        1715662801,
+        1715707800
+      ],
+      [
+        1715749201,
+        1715794200
+      ],
+      [
+        1715835601,
+        1715880600
+      ],
+      [
+        1715922001,
+        1715967000
+      ],
+      [
+        1716181201,
+        1716226200
+      ],
+      [
+        1716267601,
+        1716312600
+      ],
+      [
+        1716354001,
+        1716399000
+      ],
+      [
+        1716440401,
+        1716485400
+      ],
+      [
+        1716526801,
+        1716571800
+      ],
+      [
+        1716786001,
+        1716831000
+      ],
+      [
+        1716872401,
+        1716917400
+      ],
+      [
+        1716958801,
+        1717003800
+      ],
+      [
+        1717045201,
+        1717090200
+      ],
+      [
+        1717131601,
+        1717176600
+      ],
+      [
+        1717390801,
+        1717435800
+      ],
+      [
+        1717477201,
+        1717522200
+      ],
+      [
+        1717563601,
+        1717608600
+      ],
+      [
+        1717650001,
+        1717695000
+      ],
+      [
+        1717736401,
+        1717781400
+      ]
+    ],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1381547581,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "USDJPY"
+  },
+  "7": {
+    "name": "front.AUDCAD",
+    "group_id": 1,
+    "image": "/storage/public/5a/c8/f21e7fb92.png",
+    "description": "front.AUD/CAD",
+    "exchange": "front.exchange_audcad",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 7,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {},
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1381547581,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "AUDCAD"
+  },
+  "8": {
+    "name": "front.NZDUSD",
+    "group_id": 1,
+    "image": "/storage/public/5a/c8/f228c33b0.png",
+    "description": "front.NZD/USD",
+    "exchange": "front.exchange_nzdusd",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 8,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {},
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1381547581,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "NZDUSD"
+  },
+  "10": {
+    "name": "front.USDRUB",
+    "group_id": 1,
+    "image": "/storage/public/5a/c8/f293c3b53.png",
+    "description": "front.USD/RUB",
+    "exchange": "front.exchange_usdrub",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 10,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {},
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1381547581,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "USDRUB"
+  },
+  "31": {
+    "name": "front.AMAZON",
+    "group_id": 2,
+    "image": "/storage/public/5a/c7/f7682413c.png",
+    "description": "front.Amazon.com, Inc.",
+    "exchange": "front.exchange_amazon",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 31,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1381547581,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "AMZN"
+  },
+  "32": {
+    "name": "front.APPLE",
+    "group_id": 2,
+    "image": "/storage/public/5d/02/37d2742b46b3g8d8g3",
+    "description": "front.Apple Inc.",
+    "exchange": "front.exchange_apple",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 32,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1381547581,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "AAPL"
+  },
+  "33": {
+    "name": "front.BAIDU",
+    "group_id": 2,
+    "image": "/storage/public/5a/c7/f842e46d9.png",
+    "description": "front.Baidu, Inc. ADR",
+    "exchange": "front.exchange_baidu",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 33,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1381547581,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "BIDU"
+  },
+  "35": {
+    "name": "front.FACEBOOK",
+    "group_id": 2,
+    "image": "/storage/public/cm/ue/r6snv5shhe9mbibg.png",
+    "description": "front.Facebook, Inc.",
+    "exchange": "front.exchange_facebook",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 35,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1381547581,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "FB"
+  },
+  "36": {
+    "name": "front.GOOGLE",
+    "group_id": 2,
+    "image": "/storage/public/5a/c7/fe837fc63.png",
+    "description": "front.Alphabet Inc. Class A",
+    "exchange": "front.exchange_google",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 36,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1381547581,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "GOOGL"
+  },
+  "37": {
+    "name": "front.INTEL",
+    "group_id": 2,
+    "image": "/storage/public/5a/c7/ff894b862.png",
+    "description": "front.Intel Corporation",
+    "exchange": "front.exchange_intel",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 37,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1381547581,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "INTC"
+  },
+  "38": {
+    "name": "front.MSFT",
+    "group_id": 2,
+    "image": "/storage/public/5a/c8/0219a5338.png",
+    "description": "front.Microsoft Corporation",
+    "exchange": "front.exchange_microsoft",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 38,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1381547581,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "MSFT"
+  },
+  "45": {
+    "name": "front.CITI",
+    "group_id": 2,
+    "image": "/storage/public/5a/c7/fc2ee13b0.png",
+    "description": "front.Citigroup, Inc.",
+    "exchange": "front.exchange_citi",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 45,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1381547581,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "C"
+  },
+  "46": {
+    "name": "front.COKE",
+    "group_id": 2,
+    "image": "/storage/public/5a/c7/fc9e7e28e.png",
+    "description": "front.Coca-Cola Company",
+    "exchange": "front.exchange_cocacola",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 46,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1381547581,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "KO"
+  },
+  "50": {
+    "name": "front.GS",
+    "group_id": 2,
+    "image": "/storage/public/5a/c7/fec525099.png",
+    "description": "front.Goldman Sachs Group, Inc.",
+    "exchange": "front.exchange_goldman",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 50,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1381547581,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "GS"
+  },
+  "51": {
+    "name": "front.JPM",
+    "group_id": 2,
+    "image": "/storage/public/5e/44/1e1faafb46h3a7i4b7",
+    "description": "front.JPMorgan Chase & Co.",
+    "exchange": "front.exchange_jpmorgan",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 51,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1381547581,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "JPM"
+  },
+  "52": {
+    "name": "front.MCDON",
+    "group_id": 2,
+    "image": "/storage/public/5a/c8/01066f226.png",
+    "description": "front.McDonald's Corporation",
+    "exchange": "front.exchange_mcdonalds",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 52,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1381547581,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "MCD"
+  },
+  "53": {
+    "name": "front.MORSTAN",
+    "group_id": 2,
+    "image": "/storage/public/60/12/9391c4d5b9j7d1f6d6",
+    "description": "front.Morgan Stanley",
+    "exchange": "front.exchange_morgan",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 53,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1381547581,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "MS"
+  },
+  "54": {
+    "name": "front.NIKE",
+    "group_id": 2,
+    "image": "/storage/public/5a/c8/07632d04c.png",
+    "description": "front.Nike, Inc.",
+    "exchange": "front.exchange_nike",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 54,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1381547581,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "NKE"
+  },
+  "72": {
+    "name": "front.USDCHF",
+    "group_id": 1,
+    "image": "/storage/public/5a/c8/f2a64b893.png",
+    "description": "front.USD/CHF",
+    "exchange": "front.exchange_usdchf",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 72,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {},
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1384344699,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "USDCHF"
+  },
+  "76": {
+    "name": "front.EURUSD-OTC",
+    "group_id": 1,
+    "image": "/storage/public/5a/cb/6fa29264d/76.png",
+    "description": "front.EUR/USD (OTC)",
+    "exchange": "front.exchange_eurusdotc",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 76,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 3,
+      "special": {},
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715284801,
+        1715299200
+      ],
+      [
+        1715365801,
+        1715385600
+      ],
+      [
+        1715385601,
+        1715472000
+      ],
+      [
+        1715472001,
+        1715558400
+      ],
+      [
+        1715630401,
+        1715644800
+      ],
+      [
+        1715716801,
+        1715731200
+      ],
+      [
+        1715803201,
+        1715817600
+      ],
+      [
+        1715889601,
+        1715904000
+      ],
+      [
+        1715970601,
+        1715990400
+      ],
+      [
+        1715990401,
+        1716076800
+      ],
+      [
+        1716076801,
+        1716163200
+      ],
+      [
+        1716235201,
+        1716249600
+      ],
+      [
+        1716321601,
+        1716336000
+      ],
+      [
+        1716408001,
+        1716422400
+      ],
+      [
+        1716494401,
+        1716508800
+      ],
+      [
+        1716575401,
+        1716595200
+      ],
+      [
+        1716595201,
+        1716681600
+      ],
+      [
+        1716681601,
+        1716768000
+      ],
+      [
+        1716840001,
+        1716854400
+      ],
+      [
+        1716926401,
+        1716940800
+      ],
+      [
+        1717012801,
+        1717027200
+      ],
+      [
+        1717099201,
+        1717113600
+      ],
+      [
+        1717180201,
+        1717200000
+      ],
+      [
+        1717200001,
+        1717286400
+      ],
+      [
+        1717286401,
+        1717372800
+      ],
+      [
+        1717444801,
+        1717459200
+      ],
+      [
+        1717531201,
+        1717545600
+      ],
+      [
+        1717617601,
+        1717632000
+      ],
+      [
+        1717704001,
+        1717718400
+      ],
+      [
+        1717785001,
+        1717804800
+      ],
+      [
+        1717804801,
+        1717891200
+      ],
+      [
+        1717891201,
+        1717977600
+      ]
+    ],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1406901318,
+    "provider": "OTC",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "EURUSD-OTC"
+  },
+  "77": {
+    "name": "front.EURGBP-OTC",
+    "group_id": 1,
+    "image": "/storage/public/5a/cb/6fa327436/77.png",
+    "description": "front.EUR/GBP (OTC)",
+    "exchange": "front.exchange_eurgbpotc",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 77,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 3,
+      "special": {},
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715284801,
+        1715299200
+      ],
+      [
+        1715365801,
+        1715385600
+      ],
+      [
+        1715385601,
+        1715472000
+      ],
+      [
+        1715472001,
+        1715558400
+      ],
+      [
+        1715630401,
+        1715644800
+      ],
+      [
+        1715716801,
+        1715731200
+      ],
+      [
+        1715803201,
+        1715817600
+      ],
+      [
+        1715889601,
+        1715904000
+      ],
+      [
+        1715970601,
+        1715990400
+      ],
+      [
+        1715990401,
+        1716076800
+      ],
+      [
+        1716076801,
+        1716163200
+      ],
+      [
+        1716235201,
+        1716249600
+      ],
+      [
+        1716321601,
+        1716336000
+      ],
+      [
+        1716408001,
+        1716422400
+      ],
+      [
+        1716494401,
+        1716508800
+      ],
+      [
+        1716575401,
+        1716595200
+      ],
+      [
+        1716595201,
+        1716681600
+      ],
+      [
+        1716681601,
+        1716768000
+      ],
+      [
+        1716840001,
+        1716854400
+      ],
+      [
+        1716926401,
+        1716940800
+      ],
+      [
+        1717012801,
+        1717027200
+      ],
+      [
+        1717099201,
+        1717113600
+      ],
+      [
+        1717180201,
+        1717200000
+      ],
+      [
+        1717200001,
+        1717286400
+      ],
+      [
+        1717286401,
+        1717372800
+      ],
+      [
+        1717444801,
+        1717459200
+      ],
+      [
+        1717531201,
+        1717545600
+      ],
+      [
+        1717617601,
+        1717632000
+      ],
+      [
+        1717704001,
+        1717718400
+      ],
+      [
+        1717785001,
+        1717804800
+      ],
+      [
+        1717804801,
+        1717891200
+      ],
+      [
+        1717891201,
+        1717977600
+      ]
+    ],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1406941826,
+    "provider": "OTC",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "EURGBP-OTC"
+  },
+  "78": {
+    "name": "front.USDCHF-OTC",
+    "group_id": 1,
+    "image": "/storage/public/5a/cb/6fa2c52ae/78.png",
+    "description": "front.USD/CHF (OTC)",
+    "exchange": "front.exchange_usdchfotc",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 78,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 3,
+      "special": {},
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715284801,
+        1715299200
+      ],
+      [
+        1715365801,
+        1715385600
+      ],
+      [
+        1715385601,
+        1715472000
+      ],
+      [
+        1715472001,
+        1715558400
+      ],
+      [
+        1715630401,
+        1715644800
+      ],
+      [
+        1715716801,
+        1715731200
+      ],
+      [
+        1715803201,
+        1715817600
+      ],
+      [
+        1715889601,
+        1715904000
+      ],
+      [
+        1715970601,
+        1715990400
+      ],
+      [
+        1715990401,
+        1716076800
+      ],
+      [
+        1716076801,
+        1716163200
+      ],
+      [
+        1716235201,
+        1716249600
+      ],
+      [
+        1716321601,
+        1716336000
+      ],
+      [
+        1716408001,
+        1716422400
+      ],
+      [
+        1716494401,
+        1716508800
+      ],
+      [
+        1716575401,
+        1716595200
+      ],
+      [
+        1716595201,
+        1716681600
+      ],
+      [
+        1716681601,
+        1716768000
+      ],
+      [
+        1716840001,
+        1716854400
+      ],
+      [
+        1716926401,
+        1716940800
+      ],
+      [
+        1717012801,
+        1717027200
+      ],
+      [
+        1717099201,
+        1717113600
+      ],
+      [
+        1717180201,
+        1717200000
+      ],
+      [
+        1717200001,
+        1717286400
+      ],
+      [
+        1717286401,
+        1717372800
+      ],
+      [
+        1717444801,
+        1717459200
+      ],
+      [
+        1717531201,
+        1717545600
+      ],
+      [
+        1717617601,
+        1717632000
+      ],
+      [
+        1717704001,
+        1717718400
+      ],
+      [
+        1717785001,
+        1717804800
+      ],
+      [
+        1717804801,
+        1717891200
+      ],
+      [
+        1717891201,
+        1717977600
+      ]
+    ],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1406941907,
+    "provider": "OTC",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "USDCHF-OTC"
+  },
+  "79": {
+    "name": "front.EURJPY-OTC",
+    "group_id": 1,
+    "image": "/storage/public/5a/cb/6fa2edd2a/79.png",
+    "description": "front.EUR/JPY (OTC)",
+    "exchange": "front.exchange_eurjpyotc",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 79,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 3,
+      "special": {},
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715284801,
+        1715299200
+      ],
+      [
+        1715365801,
+        1715385600
+      ],
+      [
+        1715385601,
+        1715472000
+      ],
+      [
+        1715472001,
+        1715558400
+      ],
+      [
+        1715630401,
+        1715644800
+      ],
+      [
+        1715716801,
+        1715731200
+      ],
+      [
+        1715803201,
+        1715817600
+      ],
+      [
+        1715889601,
+        1715904000
+      ],
+      [
+        1715970601,
+        1715990400
+      ],
+      [
+        1715990401,
+        1716076800
+      ],
+      [
+        1716076801,
+        1716163200
+      ],
+      [
+        1716235201,
+        1716249600
+      ],
+      [
+        1716321601,
+        1716336000
+      ],
+      [
+        1716408001,
+        1716422400
+      ],
+      [
+        1716494401,
+        1716508800
+      ],
+      [
+        1716575401,
+        1716595200
+      ],
+      [
+        1716595201,
+        1716681600
+      ],
+      [
+        1716681601,
+        1716768000
+      ],
+      [
+        1716840001,
+        1716854400
+      ],
+      [
+        1716926401,
+        1716940800
+      ],
+      [
+        1717012801,
+        1717027200
+      ],
+      [
+        1717099201,
+        1717113600
+      ],
+      [
+        1717180201,
+        1717200000
+      ],
+      [
+        1717200001,
+        1717286400
+      ],
+      [
+        1717286401,
+        1717372800
+      ],
+      [
+        1717444801,
+        1717459200
+      ],
+      [
+        1717531201,
+        1717545600
+      ],
+      [
+        1717617601,
+        1717632000
+      ],
+      [
+        1717704001,
+        1717718400
+      ],
+      [
+        1717785001,
+        1717804800
+      ],
+      [
+        1717804801,
+        1717891200
+      ],
+      [
+        1717891201,
+        1717977600
+      ]
+    ],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1409529600,
+    "provider": "OTC",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "EURJPY-OTC"
+  },
+  "80": {
+    "name": "front.NZDUSD-OTC",
+    "group_id": 1,
+    "image": "/storage/public/5a/cb/6fa355128/80.png",
+    "description": "front.NZD/USD (OTC)",
+    "exchange": "front.exchange_nzdusdotc",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 80,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 3,
+      "special": {},
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715284801,
+        1715299200
+      ],
+      [
+        1715365801,
+        1715385600
+      ],
+      [
+        1715385601,
+        1715472000
+      ],
+      [
+        1715472001,
+        1715558400
+      ],
+      [
+        1715630401,
+        1715644800
+      ],
+      [
+        1715716801,
+        1715731200
+      ],
+      [
+        1715803201,
+        1715817600
+      ],
+      [
+        1715889601,
+        1715904000
+      ],
+      [
+        1715970601,
+        1715990400
+      ],
+      [
+        1715990401,
+        1716076800
+      ],
+      [
+        1716076801,
+        1716163200
+      ],
+      [
+        1716235201,
+        1716249600
+      ],
+      [
+        1716321601,
+        1716336000
+      ],
+      [
+        1716408001,
+        1716422400
+      ],
+      [
+        1716494401,
+        1716508800
+      ],
+      [
+        1716575401,
+        1716595200
+      ],
+      [
+        1716595201,
+        1716681600
+      ],
+      [
+        1716681601,
+        1716768000
+      ],
+      [
+        1716840001,
+        1716854400
+      ],
+      [
+        1716926401,
+        1716940800
+      ],
+      [
+        1717012801,
+        1717027200
+      ],
+      [
+        1717099201,
+        1717113600
+      ],
+      [
+        1717180201,
+        1717200000
+      ],
+      [
+        1717200001,
+        1717286400
+      ],
+      [
+        1717286401,
+        1717372800
+      ],
+      [
+        1717444801,
+        1717459200
+      ],
+      [
+        1717531201,
+        1717545600
+      ],
+      [
+        1717617601,
+        1717632000
+      ],
+      [
+        1717704001,
+        1717718400
+      ],
+      [
+        1717785001,
+        1717804800
+      ],
+      [
+        1717804801,
+        1717891200
+      ],
+      [
+        1717891201,
+        1717977600
+      ]
+    ],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1406942390,
+    "provider": "OTC",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "NZDUSD-OTC"
+  },
+  "81": {
+    "name": "front.GBPUSD-OTC",
+    "group_id": 1,
+    "image": "/storage/public/5a/cb/6fe0daf48/81.png",
+    "description": "front.GBP/USD (OTC)",
+    "exchange": "front.exchange_gbpusdotc",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 81,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 3,
+      "special": {},
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715284801,
+        1715299200
+      ],
+      [
+        1715365801,
+        1715385600
+      ],
+      [
+        1715385601,
+        1715472000
+      ],
+      [
+        1715472001,
+        1715558400
+      ],
+      [
+        1715630401,
+        1715644800
+      ],
+      [
+        1715716801,
+        1715731200
+      ],
+      [
+        1715803201,
+        1715817600
+      ],
+      [
+        1715889601,
+        1715904000
+      ],
+      [
+        1715970601,
+        1715990400
+      ],
+      [
+        1715990401,
+        1716076800
+      ],
+      [
+        1716076801,
+        1716163200
+      ],
+      [
+        1716235201,
+        1716249600
+      ],
+      [
+        1716321601,
+        1716336000
+      ],
+      [
+        1716408001,
+        1716422400
+      ],
+      [
+        1716494401,
+        1716508800
+      ],
+      [
+        1716575401,
+        1716595200
+      ],
+      [
+        1716595201,
+        1716681600
+      ],
+      [
+        1716681601,
+        1716768000
+      ],
+      [
+        1716840001,
+        1716854400
+      ],
+      [
+        1716926401,
+        1716940800
+      ],
+      [
+        1717012801,
+        1717027200
+      ],
+      [
+        1717099201,
+        1717113600
+      ],
+      [
+        1717180201,
+        1717200000
+      ],
+      [
+        1717200001,
+        1717286400
+      ],
+      [
+        1717286401,
+        1717372800
+      ],
+      [
+        1717444801,
+        1717459200
+      ],
+      [
+        1717531201,
+        1717545600
+      ],
+      [
+        1717617601,
+        1717632000
+      ],
+      [
+        1717704001,
+        1717718400
+      ],
+      [
+        1717785001,
+        1717804800
+      ],
+      [
+        1717804801,
+        1717891200
+      ],
+      [
+        1717891201,
+        1717977600
+      ]
+    ],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1406942692,
+    "provider": "OTC",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "GBPUSD-OTC"
+  },
+  "84": {
+    "name": "front.GBPJPY-OTC",
+    "group_id": 1,
+    "image": "/storage/public/5a/cb/6fe1922ad/84.png",
+    "description": "front.GBP/JPY (OTC)",
+    "exchange": "front.exchange_gbpjpyotc",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 84,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 3,
+      "special": {},
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715365801,
+        1715385600
+      ],
+      [
+        1715385601,
+        1715472000
+      ],
+      [
+        1715472001,
+        1715554500
+      ],
+      [
+        1715970601,
+        1715990400
+      ],
+      [
+        1715990401,
+        1716076800
+      ],
+      [
+        1716076801,
+        1716159300
+      ],
+      [
+        1716575401,
+        1716595200
+      ],
+      [
+        1716595201,
+        1716681600
+      ],
+      [
+        1716681601,
+        1716764100
+      ],
+      [
+        1717180201,
+        1717200000
+      ],
+      [
+        1717200001,
+        1717286400
+      ],
+      [
+        1717286401,
+        1717368900
+      ],
+      [
+        1717785001,
+        1717804800
+      ],
+      [
+        1717804801,
+        1717891200
+      ],
+      [
+        1717891201,
+        1717973700
+      ]
+    ],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1407546858,
+    "provider": "OTC",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "GBPJPY-OTC"
+  },
+  "85": {
+    "name": "front.USDJPY-OTC",
+    "group_id": 1,
+    "image": "/storage/public/5a/cb/6fe15ffb3/85.png",
+    "description": "front.USD/JPY (OTC)",
+    "exchange": "front.exchange_usdjpyotc",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 85,
+    "precision": 5,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 3,
+      "special": {},
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715365801,
+        1715385600
+      ],
+      [
+        1715385601,
+        1715472000
+      ],
+      [
+        1715472001,
+        1715554500
+      ],
+      [
+        1715970601,
+        1715990400
+      ],
+      [
+        1715990401,
+        1716076800
+      ],
+      [
+        1716076801,
+        1716159300
+      ],
+      [
+        1716575401,
+        1716595200
+      ],
+      [
+        1716595201,
+        1716681600
+      ],
+      [
+        1716681601,
+        1716764100
+      ],
+      [
+        1717180201,
+        1717200000
+      ],
+      [
+        1717200001,
+        1717286400
+      ],
+      [
+        1717286401,
+        1717368900
+      ],
+      [
+        1717785001,
+        1717804800
+      ],
+      [
+        1717804801,
+        1717891200
+      ],
+      [
+        1717891201,
+        1717973700
+      ]
+    ],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1409529600,
+    "provider": "OTC",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "USDJPY-OTC"
+  },
+  "86": {
+    "name": "front.AUDCAD-OTC",
+    "group_id": 1,
+    "image": "/storage/public/5a/cb/7012443f3/86.png",
+    "description": "front.AUD/CAD (OTC)",
+    "exchange": "front.exchange_audcadotc",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 86,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 3,
+      "special": {},
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715284801,
+        1715299200
+      ],
+      [
+        1715365801,
+        1715385600
+      ],
+      [
+        1715385601,
+        1715472000
+      ],
+      [
+        1715472001,
+        1715558400
+      ],
+      [
+        1715630401,
+        1715644800
+      ],
+      [
+        1715716801,
+        1715731200
+      ],
+      [
+        1715803201,
+        1715817600
+      ],
+      [
+        1715889601,
+        1715904000
+      ],
+      [
+        1715970601,
+        1715990400
+      ],
+      [
+        1715990401,
+        1716076800
+      ],
+      [
+        1716076801,
+        1716163200
+      ],
+      [
+        1716235201,
+        1716249600
+      ],
+      [
+        1716321601,
+        1716336000
+      ],
+      [
+        1716408001,
+        1716422400
+      ],
+      [
+        1716494401,
+        1716508800
+      ],
+      [
+        1716575401,
+        1716595200
+      ],
+      [
+        1716595201,
+        1716681600
+      ],
+      [
+        1716681601,
+        1716768000
+      ],
+      [
+        1716840001,
+        1716854400
+      ],
+      [
+        1716926401,
+        1716940800
+      ],
+      [
+        1717012801,
+        1717027200
+      ],
+      [
+        1717099201,
+        1717113600
+      ],
+      [
+        1717180201,
+        1717200000
+      ],
+      [
+        1717200001,
+        1717286400
+      ],
+      [
+        1717286401,
+        1717372800
+      ],
+      [
+        1717444801,
+        1717459200
+      ],
+      [
+        1717531201,
+        1717545600
+      ],
+      [
+        1717617601,
+        1717632000
+      ],
+      [
+        1717704001,
+        1717718400
+      ],
+      [
+        1717785001,
+        1717804800
+      ],
+      [
+        1717804801,
+        1717891200
+      ],
+      [
+        1717891201,
+        1717977600
+      ]
+    ],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1406941845,
+    "provider": "OTC",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "AUDCAD-OTC"
+  },
+  "87": {
+    "name": "front.ALIBABA",
+    "group_id": 2,
+    "image": "/storage/public/5a/c7/f7512fa63.png",
+    "description": "front.Alibaba Group Holding Limited ADR",
+    "exchange": "front.exchange_alibaba",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 87,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1411377106,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "BABA"
+  },
+  "99": {
+    "name": "front.AUDUSD",
+    "group_id": 1,
+    "image": "/storage/public/5a/c8/f2b7db16c.png",
+    "description": "front.AUD/USD",
+    "exchange": "front.exchange_audusd",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 99,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {},
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1414059475,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "AUDUSD"
+  },
+  "100": {
+    "name": "front.USDCAD",
+    "group_id": 1,
+    "image": "/storage/public/5a/c8/f2c2e5302.png",
+    "description": "front.USD/CAD",
+    "exchange": "front.exchange_usdcad",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 100,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715270400": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715356800": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717171200": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715245201,
+        1715270400
+      ],
+      [
+        1715331601,
+        1715356800
+      ],
+      [
+        1715590801,
+        1715616000
+      ],
+      [
+        1715677201,
+        1715702400
+      ],
+      [
+        1715763601,
+        1715788800
+      ],
+      [
+        1715850001,
+        1715875200
+      ],
+      [
+        1715936401,
+        1715961600
+      ],
+      [
+        1716195601,
+        1716220800
+      ],
+      [
+        1716282001,
+        1716307200
+      ],
+      [
+        1716368401,
+        1716393600
+      ],
+      [
+        1716454801,
+        1716480000
+      ],
+      [
+        1716541201,
+        1716566400
+      ],
+      [
+        1716800401,
+        1716825600
+      ],
+      [
+        1716886801,
+        1716912000
+      ],
+      [
+        1716973201,
+        1716998400
+      ],
+      [
+        1717059601,
+        1717084800
+      ],
+      [
+        1717146001,
+        1717171200
+      ],
+      [
+        1717405201,
+        1717430400
+      ],
+      [
+        1717491601,
+        1717516800
+      ],
+      [
+        1717578001,
+        1717603200
+      ],
+      [
+        1717664401,
+        1717689600
+      ],
+      [
+        1717750801,
+        1717776000
+      ]
+    ],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1418329520,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "USDCAD"
+  },
+  "101": {
+    "name": "front.AUDJPY",
+    "group_id": 1,
+    "image": "/storage/public/5a/c8/f2d6cefbd.png",
+    "description": "front.AUD/JPY",
+    "exchange": "front.exchange_audjpy",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 101,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {},
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1421237041,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "AUDJPY"
+  },
+  "102": {
+    "name": "front.GBPCAD",
+    "group_id": 1,
+    "image": "/storage/public/5a/c8/f2e54ea8d.png",
+    "description": "front.GBP/CAD",
+    "exchange": "front.exchange_gbpcad",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 102,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {},
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1421237041,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "GBPCAD"
+  },
+  "103": {
+    "name": "front.GBPCHF",
+    "group_id": 1,
+    "image": "/storage/public/5a/c8/f2f57373d.png",
+    "description": "front.GBP/CHF",
+    "exchange": "front.exchange_gbpchf",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 103,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {},
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1421237041,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "GBPCHF"
+  },
+  "104": {
+    "name": "front.GBPAUD",
+    "group_id": 1,
+    "image": "/storage/public/5a/c8/f30699074.png",
+    "description": "front.GBP/AUD",
+    "exchange": "front.exchange_gbpaud",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 104,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715277600": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715364000": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717178400": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715234401,
+        1715277600
+      ],
+      [
+        1715320801,
+        1715364000
+      ],
+      [
+        1715580001,
+        1715623200
+      ],
+      [
+        1715666401,
+        1715709600
+      ],
+      [
+        1715752801,
+        1715796000
+      ],
+      [
+        1715839201,
+        1715882400
+      ],
+      [
+        1715925601,
+        1715968800
+      ],
+      [
+        1716184801,
+        1716228000
+      ],
+      [
+        1716271201,
+        1716314400
+      ],
+      [
+        1716357601,
+        1716400800
+      ],
+      [
+        1716444001,
+        1716487200
+      ],
+      [
+        1716530401,
+        1716573600
+      ],
+      [
+        1716789601,
+        1716832800
+      ],
+      [
+        1716876001,
+        1716919200
+      ],
+      [
+        1716962401,
+        1717005600
+      ],
+      [
+        1717048801,
+        1717092000
+      ],
+      [
+        1717135201,
+        1717178400
+      ],
+      [
+        1717394401,
+        1717437600
+      ],
+      [
+        1717480801,
+        1717524000
+      ],
+      [
+        1717567201,
+        1717610400
+      ],
+      [
+        1717653601,
+        1717696800
+      ],
+      [
+        1717740001,
+        1717783200
+      ]
+    ],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1421237041,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "GBPAUD"
+  },
+  "105": {
+    "name": "front.EURCAD",
+    "group_id": 1,
+    "image": "/storage/public/5a/c8/f311bcc72.png",
+    "description": "front.EUR/CAD",
+    "exchange": "front.exchange_eurcad",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 105,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715277600": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715364000": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717178400": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715234401,
+        1715277600
+      ],
+      [
+        1715320801,
+        1715364000
+      ],
+      [
+        1715580001,
+        1715623200
+      ],
+      [
+        1715666401,
+        1715709600
+      ],
+      [
+        1715752801,
+        1715796000
+      ],
+      [
+        1715839201,
+        1715882400
+      ],
+      [
+        1715925601,
+        1715968800
+      ],
+      [
+        1716184801,
+        1716228000
+      ],
+      [
+        1716271201,
+        1716314400
+      ],
+      [
+        1716357601,
+        1716400800
+      ],
+      [
+        1716444001,
+        1716487200
+      ],
+      [
+        1716530401,
+        1716573600
+      ],
+      [
+        1716789601,
+        1716832800
+      ],
+      [
+        1716876001,
+        1716919200
+      ],
+      [
+        1716962401,
+        1717005600
+      ],
+      [
+        1717048801,
+        1717092000
+      ],
+      [
+        1717135201,
+        1717178400
+      ],
+      [
+        1717394401,
+        1717437600
+      ],
+      [
+        1717480801,
+        1717524000
+      ],
+      [
+        1717567201,
+        1717610400
+      ],
+      [
+        1717653601,
+        1717696800
+      ],
+      [
+        1717740001,
+        1717783200
+      ]
+    ],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1421237041,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "EURCAD"
+  },
+  "107": {
+    "name": "front.CADCHF",
+    "group_id": 1,
+    "image": "/storage/public/5a/c8/f32b9836d.png",
+    "description": "front.CAD/CHF",
+    "exchange": "front.exchange_cadchf",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 107,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715277600": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715364000": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717178400": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715234401,
+        1715277600
+      ],
+      [
+        1715320801,
+        1715364000
+      ],
+      [
+        1715580001,
+        1715623200
+      ],
+      [
+        1715666401,
+        1715709600
+      ],
+      [
+        1715752801,
+        1715796000
+      ],
+      [
+        1715839201,
+        1715882400
+      ],
+      [
+        1715925601,
+        1715968800
+      ],
+      [
+        1716184801,
+        1716228000
+      ],
+      [
+        1716271201,
+        1716314400
+      ],
+      [
+        1716357601,
+        1716400800
+      ],
+      [
+        1716444001,
+        1716487200
+      ],
+      [
+        1716530401,
+        1716573600
+      ],
+      [
+        1716789601,
+        1716832800
+      ],
+      [
+        1716876001,
+        1716919200
+      ],
+      [
+        1716962401,
+        1717005600
+      ],
+      [
+        1717048801,
+        1717092000
+      ],
+      [
+        1717135201,
+        1717178400
+      ],
+      [
+        1717394401,
+        1717437600
+      ],
+      [
+        1717480801,
+        1717524000
+      ],
+      [
+        1717567201,
+        1717610400
+      ],
+      [
+        1717653601,
+        1717696800
+      ],
+      [
+        1717740001,
+        1717783200
+      ]
+    ],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1421237041,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "CADCHF"
+  },
+  "108": {
+    "name": "front.EURAUD",
+    "group_id": 1,
+    "image": "/storage/public/5a/c8/f33a3d1c7.png",
+    "description": "front.EUR/AUD",
+    "exchange": "front.exchange_euraud",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 108,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715281200": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715365800": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717180200": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715234401,
+        1715281200
+      ],
+      [
+        1715320801,
+        1715365800
+      ],
+      [
+        1715580001,
+        1715626800
+      ],
+      [
+        1715666401,
+        1715713200
+      ],
+      [
+        1715752801,
+        1715799600
+      ],
+      [
+        1715839201,
+        1715886000
+      ],
+      [
+        1715925601,
+        1715970600
+      ],
+      [
+        1716184801,
+        1716231600
+      ],
+      [
+        1716271201,
+        1716318000
+      ],
+      [
+        1716357601,
+        1716404400
+      ],
+      [
+        1716444001,
+        1716490800
+      ],
+      [
+        1716530401,
+        1716575400
+      ],
+      [
+        1716789601,
+        1716836400
+      ],
+      [
+        1716876001,
+        1716922800
+      ],
+      [
+        1716962401,
+        1717009200
+      ],
+      [
+        1717048801,
+        1717095600
+      ],
+      [
+        1717135201,
+        1717180200
+      ],
+      [
+        1717394401,
+        1717441200
+      ],
+      [
+        1717480801,
+        1717527600
+      ],
+      [
+        1717567201,
+        1717614000
+      ],
+      [
+        1717653601,
+        1717700400
+      ],
+      [
+        1717740001,
+        1717785000
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1421237041,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "EURAUD"
+  },
+  "167": {
+    "name": "front.TESLA",
+    "group_id": 2,
+    "image": "/storage/public/5a/c8/059f5e46b.png",
+    "description": "front.Tesla, Inc.",
+    "exchange": "front.exchange_tesla",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 167,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1448278295,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "TESLA"
+  },
+  "168": {
+    "name": "front.USDNOK",
+    "group_id": 1,
+    "image": "/storage/public/5a/c8/f34cc5b87.png",
+    "description": "front.USD/NOK",
+    "exchange": "front.exchange_usdnok",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 168,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {},
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1448278295,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "USDNOK"
+  },
+  "212": {
+    "name": "front.EURNZD",
+    "group_id": 1,
+    "image": "/storage/public/5a/c8/f37d6b995.png",
+    "description": "front.EUR/NZD",
+    "exchange": "front.exchange_eurnzd",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 212,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {},
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1459188468,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "EURNZD"
+  },
+  "220": {
+    "name": "front.USDTRY",
+    "group_id": 1,
+    "image": "/storage/public/5a/c8/f39f3d778.png",
+    "description": "front.USD/TRY",
+    "exchange": "front.exchange_usdtry",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 220,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {},
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1470924723,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "USDTRY"
+  },
+  "816": {
+    "name": "front.BTCUSD",
+    "group_id": 16,
+    "image": "/storage/public/5a/ca/1a6edbed1.png",
+    "description": "front.Bitcoin",
+    "exchange": "front.exchange_816",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 816,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 7,
+      "special": {
+        "1715299200": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715385600": {
+          "enabled": true,
+          "title": "front.End of week"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715212801,
+        1715299200
+      ],
+      [
+        1715299201,
+        1715385600
+      ],
+      [
+        1715385601,
+        1715472000
+      ],
+      [
+        1715472001,
+        1715558400
+      ],
+      [
+        1715558401,
+        1715644800
+      ],
+      [
+        1715644801,
+        1715731200
+      ],
+      [
+        1715731201,
+        1715817600
+      ],
+      [
+        1715817601,
+        1715904000
+      ],
+      [
+        1715904001,
+        1715990400
+      ],
+      [
+        1715990401,
+        1716076800
+      ],
+      [
+        1716076801,
+        1716163200
+      ],
+      [
+        1716163201,
+        1716249600
+      ],
+      [
+        1716249601,
+        1716336000
+      ],
+      [
+        1716336001,
+        1716422400
+      ],
+      [
+        1716422401,
+        1716508800
+      ],
+      [
+        1716508801,
+        1716595200
+      ],
+      [
+        1716595201,
+        1716681600
+      ],
+      [
+        1716681601,
+        1716768000
+      ],
+      [
+        1716768001,
+        1716854400
+      ],
+      [
+        1716854401,
+        1716940800
+      ],
+      [
+        1716940801,
+        1717027200
+      ],
+      [
+        1717027201,
+        1717113600
+      ],
+      [
+        1717113601,
+        1717200000
+      ],
+      [
+        1717200001,
+        1717286400
+      ],
+      [
+        1717286401,
+        1717372800
+      ],
+      [
+        1717372801,
+        1717459200
+      ],
+      [
+        1717459201,
+        1717545600
+      ],
+      [
+        1717545601,
+        1717632000
+      ],
+      [
+        1717632001,
+        1717718400
+      ],
+      [
+        1717718401,
+        1717804800
+      ],
+      [
+        1717804801,
+        1717891200
+      ],
+      [
+        1717891201,
+        1717977600
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1483142402,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "BTCUSD"
+  },
+  "817": {
+    "name": "front.XRPUSD",
+    "group_id": 16,
+    "image": "/storage/public/5a/ca/1a4c9b504.png",
+    "description": "front.Ripple",
+    "exchange": "front.exchange_817",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 817,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 7,
+      "special": {
+        "1715299200": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715385600": {
+          "enabled": true,
+          "title": "front.End of week"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715212801,
+        1715299200
+      ],
+      [
+        1715299201,
+        1715385600
+      ],
+      [
+        1715385601,
+        1715472000
+      ],
+      [
+        1715472001,
+        1715558400
+      ],
+      [
+        1715558401,
+        1715644800
+      ],
+      [
+        1715644801,
+        1715731200
+      ],
+      [
+        1715731201,
+        1715817600
+      ],
+      [
+        1715817601,
+        1715904000
+      ],
+      [
+        1715904001,
+        1715990400
+      ],
+      [
+        1715990401,
+        1716076800
+      ],
+      [
+        1716076801,
+        1716163200
+      ],
+      [
+        1716163201,
+        1716249600
+      ],
+      [
+        1716249601,
+        1716336000
+      ],
+      [
+        1716336001,
+        1716422400
+      ],
+      [
+        1716422401,
+        1716508800
+      ],
+      [
+        1716508801,
+        1716595200
+      ],
+      [
+        1716595201,
+        1716681600
+      ],
+      [
+        1716681601,
+        1716768000
+      ],
+      [
+        1716768001,
+        1716854400
+      ],
+      [
+        1716854401,
+        1716940800
+      ],
+      [
+        1716940801,
+        1717027200
+      ],
+      [
+        1717027201,
+        1717113600
+      ],
+      [
+        1717113601,
+        1717200000
+      ],
+      [
+        1717200001,
+        1717286400
+      ],
+      [
+        1717286401,
+        1717372800
+      ],
+      [
+        1717372801,
+        1717459200
+      ],
+      [
+        1717459201,
+        1717545600
+      ],
+      [
+        1717545601,
+        1717632000
+      ],
+      [
+        1717632001,
+        1717718400
+      ],
+      [
+        1717718401,
+        1717804800
+      ],
+      [
+        1717804801,
+        1717891200
+      ],
+      [
+        1717891201,
+        1717977600
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1495247244,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "XRPUSD"
+  },
+  "818": {
+    "name": "front.ETHUSD",
+    "group_id": 16,
+    "image": "/storage/public/5a/ca/1a3d9b240.png",
+    "description": "front.Ethereum",
+    "exchange": "front.exchange_818",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 818,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 7,
+      "special": {
+        "1715299200": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715385600": {
+          "enabled": true,
+          "title": "front.End of week"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715212801,
+        1715299200
+      ],
+      [
+        1715299201,
+        1715385600
+      ],
+      [
+        1715385601,
+        1715472000
+      ],
+      [
+        1715472001,
+        1715558400
+      ],
+      [
+        1715558401,
+        1715644800
+      ],
+      [
+        1715644801,
+        1715731200
+      ],
+      [
+        1715731201,
+        1715817600
+      ],
+      [
+        1715817601,
+        1715904000
+      ],
+      [
+        1715904001,
+        1715990400
+      ],
+      [
+        1715990401,
+        1716076800
+      ],
+      [
+        1716076801,
+        1716163200
+      ],
+      [
+        1716163201,
+        1716249600
+      ],
+      [
+        1716249601,
+        1716336000
+      ],
+      [
+        1716336001,
+        1716422400
+      ],
+      [
+        1716422401,
+        1716508800
+      ],
+      [
+        1716508801,
+        1716595200
+      ],
+      [
+        1716595201,
+        1716681600
+      ],
+      [
+        1716681601,
+        1716768000
+      ],
+      [
+        1716768001,
+        1716854400
+      ],
+      [
+        1716854401,
+        1716940800
+      ],
+      [
+        1716940801,
+        1717027200
+      ],
+      [
+        1717027201,
+        1717113600
+      ],
+      [
+        1717113601,
+        1717200000
+      ],
+      [
+        1717200001,
+        1717286400
+      ],
+      [
+        1717286401,
+        1717372800
+      ],
+      [
+        1717372801,
+        1717459200
+      ],
+      [
+        1717459201,
+        1717545600
+      ],
+      [
+        1717545601,
+        1717632000
+      ],
+      [
+        1717632001,
+        1717718400
+      ],
+      [
+        1717718401,
+        1717804800
+      ],
+      [
+        1717804801,
+        1717891200
+      ],
+      [
+        1717891201,
+        1717977600
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1483142463,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "ETHUSD"
+  },
+  "819": {
+    "name": "front.LTCUSD",
+    "group_id": 16,
+    "image": "/storage/public/5c/7e/a4cba03b17h1c1d6f3.png",
+    "description": "front.Litecoin",
+    "exchange": "front.exchange_819",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 819,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 7,
+      "special": {
+        "1715299200": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715385600": {
+          "enabled": true,
+          "title": "front.End of week"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715212801,
+        1715299200
+      ],
+      [
+        1715299201,
+        1715385600
+      ],
+      [
+        1715385601,
+        1715472000
+      ],
+      [
+        1715472001,
+        1715558400
+      ],
+      [
+        1715558401,
+        1715644800
+      ],
+      [
+        1715644801,
+        1715731200
+      ],
+      [
+        1715731201,
+        1715817600
+      ],
+      [
+        1715817601,
+        1715904000
+      ],
+      [
+        1715904001,
+        1715990400
+      ],
+      [
+        1715990401,
+        1716076800
+      ],
+      [
+        1716076801,
+        1716163200
+      ],
+      [
+        1716163201,
+        1716249600
+      ],
+      [
+        1716249601,
+        1716336000
+      ],
+      [
+        1716336001,
+        1716422400
+      ],
+      [
+        1716422401,
+        1716508800
+      ],
+      [
+        1716508801,
+        1716595200
+      ],
+      [
+        1716595201,
+        1716681600
+      ],
+      [
+        1716681601,
+        1716768000
+      ],
+      [
+        1716768001,
+        1716854400
+      ],
+      [
+        1716854401,
+        1716940800
+      ],
+      [
+        1716940801,
+        1717027200
+      ],
+      [
+        1717027201,
+        1717113600
+      ],
+      [
+        1717113601,
+        1717200000
+      ],
+      [
+        1717200001,
+        1717286400
+      ],
+      [
+        1717286401,
+        1717372800
+      ],
+      [
+        1717372801,
+        1717459200
+      ],
+      [
+        1717459201,
+        1717545600
+      ],
+      [
+        1717545601,
+        1717632000
+      ],
+      [
+        1717632001,
+        1717718400
+      ],
+      [
+        1717718401,
+        1717804800
+      ],
+      [
+        1717804801,
+        1717891200
+      ],
+      [
+        1717891201,
+        1717977600
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1483142922,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "LTCUSDT"
+  },
+  "864": {
+    "name": "front.EOSUSD",
+    "group_id": 16,
+    "image": "/storage/public/5a/ca/18ebceefb.png",
+    "description": "front.EOS",
+    "exchange": "front.exchange_864",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 864,
+    "precision": 5,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 7,
+      "special": {
+        "1715299200": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715385600": {
+          "enabled": true,
+          "title": "front.End of week"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715212801,
+        1715299200
+      ],
+      [
+        1715299201,
+        1715385600
+      ],
+      [
+        1715385601,
+        1715472000
+      ],
+      [
+        1715472001,
+        1715558400
+      ],
+      [
+        1715558401,
+        1715644800
+      ],
+      [
+        1715644801,
+        1715731200
+      ],
+      [
+        1715731201,
+        1715817600
+      ],
+      [
+        1715817601,
+        1715904000
+      ],
+      [
+        1715904001,
+        1715990400
+      ],
+      [
+        1715990401,
+        1716076800
+      ],
+      [
+        1716076801,
+        1716163200
+      ],
+      [
+        1716163201,
+        1716249600
+      ],
+      [
+        1716249601,
+        1716336000
+      ],
+      [
+        1716336001,
+        1716422400
+      ],
+      [
+        1716422401,
+        1716508800
+      ],
+      [
+        1716508801,
+        1716595200
+      ],
+      [
+        1716595201,
+        1716681600
+      ],
+      [
+        1716681601,
+        1716768000
+      ],
+      [
+        1716768001,
+        1716854400
+      ],
+      [
+        1716854401,
+        1716940800
+      ],
+      [
+        1716940801,
+        1717027200
+      ],
+      [
+        1717027201,
+        1717113600
+      ],
+      [
+        1717113601,
+        1717200000
+      ],
+      [
+        1717200001,
+        1717286400
+      ],
+      [
+        1717286401,
+        1717372800
+      ],
+      [
+        1717372801,
+        1717459200
+      ],
+      [
+        1717459201,
+        1717545600
+      ],
+      [
+        1717545601,
+        1717632000
+      ],
+      [
+        1717632001,
+        1717718400
+      ],
+      [
+        1717718401,
+        1717804800
+      ],
+      [
+        1717804801,
+        1717891200
+      ],
+      [
+        1717891201,
+        1717977600
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1521411030,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "EOSUSD"
+  },
+  "865": {
+    "name": "front.USDINR",
+    "group_id": 1,
+    "image": "/storage/public/5a/c9/402c8e6ba.png",
+    "description": "front.USD/INR",
+    "exchange": "front.exchange_865",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 865,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {},
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1524063600,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "USDINR"
+  },
+  "866": {
+    "name": "front.USDPLN",
+    "group_id": 1,
+    "image": "/storage/public/5a/c8/f40ba287a.png",
+    "description": "front.USD/PLN",
+    "exchange": "front.exchange_866",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 866,
+    "precision": 5,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {},
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1524063600,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "USDPLN"
+  },
+  "867": {
+    "name": "front.USDBRL",
+    "group_id": 1,
+    "image": "/storage/public/5a/c8/f41c18766.png",
+    "description": "front.USD/BRL",
+    "exchange": "front.exchange_867",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 867,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {},
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1524063600,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "USDBRL"
+  },
+  "868": {
+    "name": "front.USDZAR",
+    "group_id": 1,
+    "image": "/storage/public/5a/c8/f427db9fa.png",
+    "description": "front.USD/ZAR",
+    "exchange": "front.exchange_868",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 868,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {},
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1524063600,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "USDZAR"
+  },
+  "892": {
+    "name": "front.USDSGD",
+    "group_id": 1,
+    "image": "/storage/public/5a/d6/15092e877.png",
+    "description": "front.USD/SGD",
+    "exchange": "front.exchange_892",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 892,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {},
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1524063600,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "USDSGD"
+  },
+  "893": {
+    "name": "front.USDHKD",
+    "group_id": 1,
+    "image": "/storage/public/5a/d6/14fa4621d.png",
+    "description": "front.USD/HKD",
+    "exchange": "front.exchange_893",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 893,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {},
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1524063600,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "USDHKD"
+  },
+  "943": {
+    "name": "front.AUDCHF",
+    "group_id": 1,
+    "image": "/storage/public/5a/fc/b1ba8e337.png",
+    "description": "front.AUD/CHF",
+    "exchange": "front.exchange_AUDCHF",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 943,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {},
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1526478362,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "AUDCHF"
+  },
+  "944": {
+    "name": "front.AUDNZD",
+    "group_id": 1,
+    "image": "/storage/public/5a/fc/b1b14ad0c.png",
+    "description": "front.AUD/NZD",
+    "exchange": "front.exchange_AUDNZD",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 944,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {},
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1526478449,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "AUDNZD"
+  },
+  "946": {
+    "name": "front.EURCHF",
+    "group_id": 1,
+    "image": "/storage/public/5a/fc/b19827d7c.png",
+    "description": "front.EUR/CHF",
+    "exchange": "front.exchange_EURCHF",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 946,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715270400": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715356800": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717171200": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715245201,
+        1715270400
+      ],
+      [
+        1715331601,
+        1715356800
+      ],
+      [
+        1715590801,
+        1715616000
+      ],
+      [
+        1715677201,
+        1715702400
+      ],
+      [
+        1715763601,
+        1715788800
+      ],
+      [
+        1715850001,
+        1715875200
+      ],
+      [
+        1715936401,
+        1715961600
+      ],
+      [
+        1716195601,
+        1716220800
+      ],
+      [
+        1716282001,
+        1716307200
+      ],
+      [
+        1716368401,
+        1716393600
+      ],
+      [
+        1716454801,
+        1716480000
+      ],
+      [
+        1716541201,
+        1716566400
+      ],
+      [
+        1716800401,
+        1716825600
+      ],
+      [
+        1716886801,
+        1716912000
+      ],
+      [
+        1716973201,
+        1716998400
+      ],
+      [
+        1717059601,
+        1717084800
+      ],
+      [
+        1717146001,
+        1717171200
+      ],
+      [
+        1717405201,
+        1717430400
+      ],
+      [
+        1717491601,
+        1717516800
+      ],
+      [
+        1717578001,
+        1717603200
+      ],
+      [
+        1717664401,
+        1717689600
+      ],
+      [
+        1717750801,
+        1717776000
+      ]
+    ],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1526478575,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "EURCHF"
+  },
+  "947": {
+    "name": "front.GBPNZD",
+    "group_id": 1,
+    "image": "/storage/public/5a/fc/b188aa5fd.png",
+    "description": "front.GBP/NZD",
+    "exchange": "front.exchange_GBPNZD",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 947,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {},
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1526478622,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "GBPNZD"
+  },
+  "1865": {
+    "name": "front.USDJPY-op",
+    "group_id": 1,
+    "image": "/storage/public/cm/ik/0kknv5smkfdijljg.png",
+    "description": "front.USD/JPY",
+    "exchange": "",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 1865,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715275800": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715362200": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717176600": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715230801,
+        1715275800
+      ],
+      [
+        1715317201,
+        1715362200
+      ],
+      [
+        1715576401,
+        1715621400
+      ],
+      [
+        1715662801,
+        1715707800
+      ],
+      [
+        1715749201,
+        1715794200
+      ],
+      [
+        1715835601,
+        1715880600
+      ],
+      [
+        1715922001,
+        1715967000
+      ],
+      [
+        1716181201,
+        1716226200
+      ],
+      [
+        1716267601,
+        1716312600
+      ],
+      [
+        1716354001,
+        1716399000
+      ],
+      [
+        1716440401,
+        1716485400
+      ],
+      [
+        1716526801,
+        1716571800
+      ],
+      [
+        1716786001,
+        1716831000
+      ],
+      [
+        1716872401,
+        1716917400
+      ],
+      [
+        1716958801,
+        1717003800
+      ],
+      [
+        1717045201,
+        1717090200
+      ],
+      [
+        1717131601,
+        1717176600
+      ],
+      [
+        1717390801,
+        1717435800
+      ],
+      [
+        1717477201,
+        1717522200
+      ],
+      [
+        1717563601,
+        1717608600
+      ],
+      [
+        1717650001,
+        1717695000
+      ],
+      [
+        1717736401,
+        1717781400
+      ]
+    ],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1373598781,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "USDJPY"
+  },
+  "1866": {
+    "name": "front.GBPJPY-op",
+    "group_id": 1,
+    "image": "/storage/public/cm/ik/2nh2fl4ft9bfudvg.png",
+    "description": "front.GBP/JPY",
+    "exchange": "",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 1866,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715275800": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715362200": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717176600": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715230801,
+        1715275800
+      ],
+      [
+        1715317201,
+        1715362200
+      ],
+      [
+        1715576401,
+        1715621400
+      ],
+      [
+        1715662801,
+        1715707800
+      ],
+      [
+        1715749201,
+        1715794200
+      ],
+      [
+        1715835601,
+        1715880600
+      ],
+      [
+        1715922001,
+        1715967000
+      ],
+      [
+        1716181201,
+        1716226200
+      ],
+      [
+        1716267601,
+        1716312600
+      ],
+      [
+        1716354001,
+        1716399000
+      ],
+      [
+        1716440401,
+        1716485400
+      ],
+      [
+        1716526801,
+        1716571800
+      ],
+      [
+        1716786001,
+        1716831000
+      ],
+      [
+        1716872401,
+        1716917400
+      ],
+      [
+        1716958801,
+        1717003800
+      ],
+      [
+        1717045201,
+        1717090200
+      ],
+      [
+        1717131601,
+        1717176600
+      ],
+      [
+        1717390801,
+        1717435800
+      ],
+      [
+        1717477201,
+        1717522200
+      ],
+      [
+        1717563601,
+        1717608600
+      ],
+      [
+        1717650001,
+        1717695000
+      ],
+      [
+        1717736401,
+        1717781400
+      ]
+    ],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1373598781,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "GBPJPY"
+  },
+  "1867": {
+    "name": "front.GBPUSD-op",
+    "group_id": 1,
+    "image": "/storage/public/cm/ik/4uce8qln4ana4qm0.png",
+    "description": "front.GBP/USD",
+    "exchange": "",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 1867,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284800": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715365800": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717180200": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715212801,
+        1715284800
+      ],
+      [
+        1715299201,
+        1715365800
+      ],
+      [
+        1715558401,
+        1715630400
+      ],
+      [
+        1715644801,
+        1715716800
+      ],
+      [
+        1715731201,
+        1715803200
+      ],
+      [
+        1715817601,
+        1715889600
+      ],
+      [
+        1715904001,
+        1715970600
+      ],
+      [
+        1716163201,
+        1716235200
+      ],
+      [
+        1716249601,
+        1716321600
+      ],
+      [
+        1716336001,
+        1716408000
+      ],
+      [
+        1716422401,
+        1716494400
+      ],
+      [
+        1716508801,
+        1716575400
+      ],
+      [
+        1716768001,
+        1716840000
+      ],
+      [
+        1716854401,
+        1716926400
+      ],
+      [
+        1716940801,
+        1717012800
+      ],
+      [
+        1717027201,
+        1717099200
+      ],
+      [
+        1717113601,
+        1717180200
+      ],
+      [
+        1717372801,
+        1717444800
+      ],
+      [
+        1717459201,
+        1717531200
+      ],
+      [
+        1717545601,
+        1717617600
+      ],
+      [
+        1717632001,
+        1717704000
+      ],
+      [
+        1717718401,
+        1717785000
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1373598781,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "GBPUSD"
+  },
+  "1868": {
+    "name": "front.AUDCAD-op",
+    "group_id": 1,
+    "image": "/storage/public/cm/ik/5m0r041u0fojvf10.png",
+    "description": "front.AUD/CAD",
+    "exchange": "",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 1868,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {},
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1373598781,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "AUDCAD"
+  },
+  "1884": {
+    "name": "front.AUDCHF-op",
+    "group_id": 1,
+    "image": "/storage/public/cm/j2/4t4nv5smkfdikk30.png",
+    "description": "front.AUD/CHF",
+    "exchange": "",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 1884,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 20,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {},
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [],
+    "enabled": false,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1373598781,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": true,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "AUDCHF"
+  },
+  "1903": {
+    "name": "front.CITI-op",
+    "group_id": 2,
+    "image": "/storage/public/cm/j2/nq9l2563aaprs6n0.png",
+    "description": "front.Citigroup, Inc.",
+    "exchange": "",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 1903,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1373598781,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "C"
+  },
+  "1905": {
+    "name": "front.TESLA-op",
+    "group_id": 2,
+    "image": "/storage/public/cm/j2/vc8n68mt06gtb480.png",
+    "description": "front.Tesla, Inc.",
+    "exchange": "",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 1905,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1373598781,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "TESLA"
+  },
+  "1906": {
+    "name": "front.MCDON-op",
+    "group_id": 2,
+    "image": "/storage/public/cm/j3/014nv5smkfdiklgg.png",
+    "description": "front.McDonald's Corporation",
+    "exchange": "",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 1906,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1373598781,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "MCD"
+  },
+  "1907": {
+    "name": "front.MORSTAN-op",
+    "group_id": 2,
+    "image": "/storage/public/cm/j3/0lke8qln4ana5qd0.png",
+    "description": "front.Morgan Stanley",
+    "exchange": "",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 1907,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1373598781,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "MS"
+  },
+  "1908": {
+    "name": "front.ALIBABA-op",
+    "group_id": 2,
+    "image": "/storage/public/cm/j3/1e0r041u0fok0fog.png",
+    "description": "front.Alibaba Group Holding Limited ADR",
+    "exchange": "",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 1908,
+    "precision": 6,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1373598781,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "BABA"
+  },
+  "1909": {
+    "name": "front.AMAZON-op",
+    "group_id": 2,
+    "image": "/storage/public/cm/j3/22se8qln4ana5qe0.png",
+    "description": "front.Amazon.com, Inc.",
+    "exchange": "",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 1909,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1373598781,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "AMZN"
+  },
+  "1910": {
+    "name": "front.APPLE-op",
+    "group_id": 2,
+    "image": "/storage/public/cm/j3/2l0r041u0fok0fp0.png",
+    "description": "front.Apple Inc.",
+    "exchange": "",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 1910,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1373598781,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "AAPL"
+  },
+  "1911": {
+    "name": "front.BAIDU-op",
+    "group_id": 2,
+    "image": "/storage/public/cm/j3/371l2563aaprs700.png",
+    "description": "front.Baidu, Inc. ADR",
+    "exchange": "",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 1911,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1373598781,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "BIDU"
+  },
+  "1922": {
+    "name": "front.COKE-op",
+    "group_id": 2,
+    "image": "/storage/public/cm/j6/49pl2563aaprsd5g.png",
+    "description": "front.Coca-Cola Company",
+    "exchange": "",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 1922,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1373598781,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "KO"
+  },
+  "1923": {
+    "name": "front.MSFT-op",
+    "group_id": 2,
+    "image": "/storage/public/cm/j6/59h2fl4ft9bfvm0g.png",
+    "description": "front.Microsoft Corporation",
+    "exchange": "",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 1923,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1373598781,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "MSFT"
+  },
+  "1924": {
+    "name": "front.NIKE-op",
+    "group_id": 2,
+    "image": "/storage/public/cm/j6/besnv5smkfdikrg0.png",
+    "description": "front.Nike, Inc.",
+    "exchange": "",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 1924,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1373598781,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "NIKE"
+  },
+  "1925": {
+    "name": "front.FACEBOOK-op",
+    "group_id": 2,
+    "image": "/storage/public/cm/ue/qvhb24v462ihnfig.png",
+    "description": "front.Facebook, Inc.",
+    "exchange": "",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 1925,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1373598781,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "FB"
+  },
+  "1926": {
+    "name": "front.GOOGLE-op",
+    "group_id": 2,
+    "image": "/storage/public/cm/j6/ct0n68mt06gtbaj0.png",
+    "description": "front.Alphabet Inc. Class A",
+    "exchange": "",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 1926,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1373598781,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "GOOGL"
+  },
+  "1927": {
+    "name": "front.GS-op",
+    "group_id": 2,
+    "image": "/storage/public/cm/j6/dion68mt06gtbakg.png",
+    "description": "front.Goldman Sachs Group, Inc.",
+    "exchange": "",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 1927,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1373598781,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "GS"
+  },
+  "1928": {
+    "name": "front.INTEL-op",
+    "group_id": 2,
+    "image": "/storage/public/cm/j6/ee4nv5smkfdikrng.png",
+    "description": "front.Intel Corporation",
+    "exchange": "",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 1928,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1373598781,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "INTC"
+  },
+  "1929": {
+    "name": "front.JPM-op",
+    "group_id": 2,
+    "image": "/storage/public/cm/j6/flknv5smkfdikrog.png",
+    "description": "front.JPMorgan Chase & Co.",
+    "exchange": "",
+    "minimal_bet": 2,
+    "maximal_bet": 20000,
+    "top_traders_enabled": true,
+    "id": 1929,
+    "precision": 4,
+    "option": {
+      "profit": {
+        "commission": 18,
+        "refund_min": 0,
+        "refund_max": 0,
+        "commission_vip_diff": 0
+      },
+      "expiration_times": [
+        900
+      ],
+      "exp_time": 900,
+      "count": 11,
+      "special": {
+        "1715284500": {
+          "enabled": true,
+          "title": "front.End of day"
+        },
+        "1715370900": {
+          "enabled": true,
+          "title": "front.End of week"
+        },
+        "1717185300": {
+          "enabled": true,
+          "title": "front.End of month"
+        }
+      },
+      "start_time": 1715281200
+    },
+    "deadtime": 300,
+    "sum": 2,
+    "schedule": [
+      [
+        1715261581,
+        1715284500
+      ],
+      [
+        1715347981,
+        1715370900
+      ],
+      [
+        1715607181,
+        1715630100
+      ],
+      [
+        1715693581,
+        1715716500
+      ],
+      [
+        1715779981,
+        1715802900
+      ],
+      [
+        1715866381,
+        1715889300
+      ],
+      [
+        1715952781,
+        1715975700
+      ],
+      [
+        1716211981,
+        1716234900
+      ],
+      [
+        1716298381,
+        1716321300
+      ],
+      [
+        1716384781,
+        1716407700
+      ],
+      [
+        1716471181,
+        1716494100
+      ],
+      [
+        1716557581,
+        1716580500
+      ],
+      [
+        1716816781,
+        1716839700
+      ],
+      [
+        1716903181,
+        1716926100
+      ],
+      [
+        1716989581,
+        1717012500
+      ],
+      [
+        1717075981,
+        1717098900
+      ],
+      [
+        1717162381,
+        1717185300
+      ],
+      [
+        1717421581,
+        1717444500
+      ],
+      [
+        1717507981,
+        1717530900
+      ],
+      [
+        1717594381,
+        1717617300
+      ],
+      [
+        1717680781,
+        1717703700
+      ],
+      [
+        1717767181,
+        1717790100
+      ]
+    ],
+    "enabled": true,
+    "minmax": {
+      "max": 20000,
+      "min": 2
+    },
+    "start_time": 1373598781,
+    "provider": "feed",
+    "is_buyback": 1,
+    "is_suspended": false,
+    "buyback_deadtime": 120,
+    "rollover_enabled": false,
+    "rollover_commission": 0,
+    "ticker": "JPM"
+  }
+}
