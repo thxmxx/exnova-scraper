@@ -23,10 +23,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284800": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715365800": {
           "enabled": true,
           "title": "front.End of week"
@@ -36,15 +32,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715212801,
-        1715284800
-      ],
       [
         1715299201,
         1715365800
@@ -128,6 +120,10 @@
       [
         1717718401,
         1717785000
+      ],
+      [
+        1717977601,
+        1718049600
       ]
     ],
     "enabled": true,
@@ -168,10 +164,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715275800": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715362200": {
           "enabled": true,
           "title": "front.End of week"
@@ -181,15 +173,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715230801,
-        1715275800
-      ],
       [
         1715317201,
         1715362200
@@ -273,6 +261,10 @@
       [
         1717736401,
         1717781400
+      ],
+      [
+        1717995601,
+        1718040600
       ]
     ],
     "enabled": false,
@@ -313,10 +305,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715275800": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715362200": {
           "enabled": true,
           "title": "front.End of week"
@@ -326,15 +314,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715230801,
-        1715275800
-      ],
       [
         1715317201,
         1715362200
@@ -418,6 +402,10 @@
       [
         1717736401,
         1717781400
+      ],
+      [
+        1717995601,
+        1718040600
       ]
     ],
     "enabled": false,
@@ -458,10 +446,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284800": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715365800": {
           "enabled": true,
           "title": "front.End of week"
@@ -471,15 +455,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715212801,
-        1715284800
-      ],
       [
         1715299201,
         1715365800
@@ -563,6 +543,10 @@
       [
         1717718401,
         1717785000
+      ],
+      [
+        1717977601,
+        1718049600
       ]
     ],
     "enabled": true,
@@ -603,10 +587,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284800": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715365800": {
           "enabled": true,
           "title": "front.End of week"
@@ -616,15 +596,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715212801,
-        1715284800
-      ],
       [
         1715299201,
         1715365800
@@ -708,6 +684,10 @@
       [
         1717718401,
         1717785000
+      ],
+      [
+        1717977601,
+        1718049600
       ]
     ],
     "enabled": true,
@@ -748,10 +728,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715275800": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715362200": {
           "enabled": true,
           "title": "front.End of week"
@@ -761,15 +737,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715230801,
-        1715275800
-      ],
       [
         1715317201,
         1715362200
@@ -853,6 +825,10 @@
       [
         1717736401,
         1717781400
+      ],
+      [
+        1717995601,
+        1718040600
       ]
     ],
     "enabled": false,
@@ -893,7 +869,7 @@
       "exp_time": 900,
       "count": 11,
       "special": {},
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
@@ -936,7 +912,7 @@
       "exp_time": 900,
       "count": 11,
       "special": {},
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
@@ -979,7 +955,7 @@
       "exp_time": 900,
       "count": 11,
       "special": {},
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
@@ -1022,10 +998,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -1035,15 +1007,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -1127,9 +1095,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -1167,10 +1139,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -1180,15 +1148,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -1272,9 +1236,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -1312,10 +1280,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -1325,15 +1289,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -1417,9 +1377,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -1457,10 +1421,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -1470,15 +1430,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -1562,9 +1518,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -1602,10 +1562,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -1615,15 +1571,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -1707,9 +1659,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -1747,10 +1703,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -1760,15 +1712,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -1852,9 +1800,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -1892,10 +1844,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -1905,15 +1853,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -1997,9 +1941,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -2037,10 +1985,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -2050,15 +1994,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -2142,9 +2082,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -2182,10 +2126,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -2195,15 +2135,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -2287,9 +2223,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -2327,10 +2267,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -2340,15 +2276,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -2432,9 +2364,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -2472,10 +2408,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -2485,15 +2417,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -2577,9 +2505,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -2617,10 +2549,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -2630,15 +2558,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -2722,9 +2646,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -2762,10 +2690,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -2775,15 +2699,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -2867,9 +2787,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -2907,10 +2831,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -2920,15 +2840,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -3012,9 +2928,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -3052,7 +2972,7 @@
       "exp_time": 900,
       "count": 11,
       "special": {},
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
@@ -3095,15 +3015,11 @@
       "exp_time": 900,
       "count": 3,
       "special": {},
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715284801,
-        1715299200
-      ],
       [
         1715365801,
         1715385600
@@ -3227,6 +3143,10 @@
       [
         1717891201,
         1717977600
+      ],
+      [
+        1718049601,
+        1718064000
       ]
     ],
     "enabled": false,
@@ -3267,15 +3187,11 @@
       "exp_time": 900,
       "count": 3,
       "special": {},
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715284801,
-        1715299200
-      ],
       [
         1715365801,
         1715385600
@@ -3399,6 +3315,10 @@
       [
         1717891201,
         1717977600
+      ],
+      [
+        1718049601,
+        1718064000
       ]
     ],
     "enabled": false,
@@ -3439,15 +3359,11 @@
       "exp_time": 900,
       "count": 3,
       "special": {},
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715284801,
-        1715299200
-      ],
       [
         1715365801,
         1715385600
@@ -3571,6 +3487,10 @@
       [
         1717891201,
         1717977600
+      ],
+      [
+        1718049601,
+        1718064000
       ]
     ],
     "enabled": false,
@@ -3611,15 +3531,11 @@
       "exp_time": 900,
       "count": 3,
       "special": {},
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715284801,
-        1715299200
-      ],
       [
         1715365801,
         1715385600
@@ -3743,6 +3659,10 @@
       [
         1717891201,
         1717977600
+      ],
+      [
+        1718049601,
+        1718064000
       ]
     ],
     "enabled": false,
@@ -3783,15 +3703,11 @@
       "exp_time": 900,
       "count": 3,
       "special": {},
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715284801,
-        1715299200
-      ],
       [
         1715365801,
         1715385600
@@ -3915,6 +3831,10 @@
       [
         1717891201,
         1717977600
+      ],
+      [
+        1718049601,
+        1718064000
       ]
     ],
     "enabled": false,
@@ -3955,15 +3875,11 @@
       "exp_time": 900,
       "count": 3,
       "special": {},
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715284801,
-        1715299200
-      ],
       [
         1715365801,
         1715385600
@@ -4087,6 +4003,10 @@
       [
         1717891201,
         1717977600
+      ],
+      [
+        1718049601,
+        1718064000
       ]
     ],
     "enabled": false,
@@ -4127,7 +4047,7 @@
       "exp_time": 900,
       "count": 3,
       "special": {},
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
@@ -4231,7 +4151,7 @@
       "exp_time": 900,
       "count": 3,
       "special": {},
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
@@ -4335,15 +4255,11 @@
       "exp_time": 900,
       "count": 3,
       "special": {},
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715284801,
-        1715299200
-      ],
       [
         1715365801,
         1715385600
@@ -4467,6 +4383,10 @@
       [
         1717891201,
         1717977600
+      ],
+      [
+        1718049601,
+        1718064000
       ]
     ],
     "enabled": false,
@@ -4507,10 +4427,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -4520,15 +4436,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -4612,9 +4524,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -4652,7 +4568,7 @@
       "exp_time": 900,
       "count": 11,
       "special": {},
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
@@ -4695,10 +4611,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715270400": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715356800": {
           "enabled": true,
           "title": "front.End of week"
@@ -4708,15 +4620,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715245201,
-        1715270400
-      ],
       [
         1715331601,
         1715356800
@@ -4800,6 +4708,10 @@
       [
         1717750801,
         1717776000
+      ],
+      [
+        1718010001,
+        1718035200
       ]
     ],
     "enabled": false,
@@ -4840,7 +4752,7 @@
       "exp_time": 900,
       "count": 11,
       "special": {},
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
@@ -4883,7 +4795,7 @@
       "exp_time": 900,
       "count": 11,
       "special": {},
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
@@ -4926,7 +4838,7 @@
       "exp_time": 900,
       "count": 11,
       "special": {},
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
@@ -4969,10 +4881,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715277600": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715364000": {
           "enabled": true,
           "title": "front.End of week"
@@ -4982,15 +4890,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715234401,
-        1715277600
-      ],
       [
         1715320801,
         1715364000
@@ -5074,6 +4978,10 @@
       [
         1717740001,
         1717783200
+      ],
+      [
+        1717999201,
+        1718042400
       ]
     ],
     "enabled": false,
@@ -5114,10 +5022,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715277600": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715364000": {
           "enabled": true,
           "title": "front.End of week"
@@ -5127,15 +5031,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715234401,
-        1715277600
-      ],
       [
         1715320801,
         1715364000
@@ -5219,6 +5119,10 @@
       [
         1717740001,
         1717783200
+      ],
+      [
+        1717999201,
+        1718042400
       ]
     ],
     "enabled": false,
@@ -5259,10 +5163,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715277600": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715364000": {
           "enabled": true,
           "title": "front.End of week"
@@ -5272,15 +5172,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715234401,
-        1715277600
-      ],
       [
         1715320801,
         1715364000
@@ -5364,6 +5260,10 @@
       [
         1717740001,
         1717783200
+      ],
+      [
+        1717999201,
+        1718042400
       ]
     ],
     "enabled": false,
@@ -5404,10 +5304,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715281200": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715365800": {
           "enabled": true,
           "title": "front.End of week"
@@ -5417,15 +5313,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715234401,
-        1715281200
-      ],
       [
         1715320801,
         1715365800
@@ -5509,9 +5401,13 @@
       [
         1717740001,
         1717785000
+      ],
+      [
+        1717999201,
+        1718046000
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -5549,10 +5445,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -5562,15 +5454,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -5654,9 +5542,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -5694,7 +5586,7 @@
       "exp_time": 900,
       "count": 11,
       "special": {},
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
@@ -5737,7 +5629,7 @@
       "exp_time": 900,
       "count": 11,
       "special": {},
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
@@ -5780,7 +5672,7 @@
       "exp_time": 900,
       "count": 11,
       "special": {},
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
@@ -5823,24 +5715,16 @@
       "exp_time": 900,
       "count": 7,
       "special": {
-        "1715299200": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715385600": {
           "enabled": true,
           "title": "front.End of week"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715212801,
-        1715299200
-      ],
       [
         1715299201,
         1715385600
@@ -5964,6 +5848,10 @@
       [
         1717891201,
         1717977600
+      ],
+      [
+        1717977601,
+        1718064000
       ]
     ],
     "enabled": true,
@@ -6004,24 +5892,16 @@
       "exp_time": 900,
       "count": 7,
       "special": {
-        "1715299200": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715385600": {
           "enabled": true,
           "title": "front.End of week"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715212801,
-        1715299200
-      ],
       [
         1715299201,
         1715385600
@@ -6145,6 +6025,10 @@
       [
         1717891201,
         1717977600
+      ],
+      [
+        1717977601,
+        1718064000
       ]
     ],
     "enabled": true,
@@ -6185,24 +6069,16 @@
       "exp_time": 900,
       "count": 7,
       "special": {
-        "1715299200": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715385600": {
           "enabled": true,
           "title": "front.End of week"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715212801,
-        1715299200
-      ],
       [
         1715299201,
         1715385600
@@ -6326,6 +6202,10 @@
       [
         1717891201,
         1717977600
+      ],
+      [
+        1717977601,
+        1718064000
       ]
     ],
     "enabled": true,
@@ -6366,24 +6246,16 @@
       "exp_time": 900,
       "count": 7,
       "special": {
-        "1715299200": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715385600": {
           "enabled": true,
           "title": "front.End of week"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715212801,
-        1715299200
-      ],
       [
         1715299201,
         1715385600
@@ -6507,6 +6379,10 @@
       [
         1717891201,
         1717977600
+      ],
+      [
+        1717977601,
+        1718064000
       ]
     ],
     "enabled": true,
@@ -6547,24 +6423,16 @@
       "exp_time": 900,
       "count": 7,
       "special": {
-        "1715299200": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715385600": {
           "enabled": true,
           "title": "front.End of week"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715212801,
-        1715299200
-      ],
       [
         1715299201,
         1715385600
@@ -6688,6 +6556,10 @@
       [
         1717891201,
         1717977600
+      ],
+      [
+        1717977601,
+        1718064000
       ]
     ],
     "enabled": true,
@@ -6728,7 +6600,7 @@
       "exp_time": 900,
       "count": 11,
       "special": {},
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
@@ -6771,7 +6643,7 @@
       "exp_time": 900,
       "count": 11,
       "special": {},
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
@@ -6803,7 +6675,7 @@
     "precision": 4,
     "option": {
       "profit": {
-        "commission": 20,
+        "commission": 21,
         "refund_min": 0,
         "refund_max": 0,
         "commission_vip_diff": 0
@@ -6814,7 +6686,7 @@
       "exp_time": 900,
       "count": 11,
       "special": {},
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
@@ -6857,7 +6729,7 @@
       "exp_time": 900,
       "count": 11,
       "special": {},
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
@@ -6900,7 +6772,7 @@
       "exp_time": 900,
       "count": 11,
       "special": {},
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
@@ -6943,7 +6815,7 @@
       "exp_time": 900,
       "count": 11,
       "special": {},
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
@@ -6986,7 +6858,7 @@
       "exp_time": 900,
       "count": 11,
       "special": {},
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
@@ -7029,7 +6901,7 @@
       "exp_time": 900,
       "count": 11,
       "special": {},
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
@@ -7072,10 +6944,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715270400": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715356800": {
           "enabled": true,
           "title": "front.End of week"
@@ -7085,15 +6953,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715245201,
-        1715270400
-      ],
       [
         1715331601,
         1715356800
@@ -7177,6 +7041,10 @@
       [
         1717750801,
         1717776000
+      ],
+      [
+        1718010001,
+        1718035200
       ]
     ],
     "enabled": false,
@@ -7217,7 +7085,7 @@
       "exp_time": 900,
       "count": 11,
       "special": {},
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
@@ -7260,10 +7128,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715275800": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715362200": {
           "enabled": true,
           "title": "front.End of week"
@@ -7273,15 +7137,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715230801,
-        1715275800
-      ],
       [
         1715317201,
         1715362200
@@ -7365,6 +7225,10 @@
       [
         1717736401,
         1717781400
+      ],
+      [
+        1717995601,
+        1718040600
       ]
     ],
     "enabled": false,
@@ -7405,10 +7269,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715275800": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715362200": {
           "enabled": true,
           "title": "front.End of week"
@@ -7418,15 +7278,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715230801,
-        1715275800
-      ],
       [
         1715317201,
         1715362200
@@ -7510,6 +7366,10 @@
       [
         1717736401,
         1717781400
+      ],
+      [
+        1717995601,
+        1718040600
       ]
     ],
     "enabled": false,
@@ -7550,10 +7410,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284800": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715365800": {
           "enabled": true,
           "title": "front.End of week"
@@ -7563,15 +7419,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715212801,
-        1715284800
-      ],
       [
         1715299201,
         1715365800
@@ -7655,6 +7507,10 @@
       [
         1717718401,
         1717785000
+      ],
+      [
+        1717977601,
+        1718049600
       ]
     ],
     "enabled": true,
@@ -7695,7 +7551,7 @@
       "exp_time": 900,
       "count": 11,
       "special": {},
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
@@ -7738,7 +7594,7 @@
       "exp_time": 900,
       "count": 11,
       "special": {},
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
@@ -7781,10 +7637,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -7794,15 +7646,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -7886,9 +7734,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -7926,10 +7778,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -7939,15 +7787,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -8031,9 +7875,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -8071,10 +7919,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -8084,15 +7928,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -8176,9 +8016,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -8216,10 +8060,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -8229,15 +8069,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -8321,9 +8157,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -8361,10 +8201,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -8374,15 +8210,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -8466,9 +8298,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -8506,10 +8342,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -8519,15 +8351,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -8611,9 +8439,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -8651,10 +8483,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -8664,15 +8492,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -8756,9 +8580,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -8796,10 +8624,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -8809,15 +8633,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -8901,9 +8721,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -8941,10 +8765,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -8954,15 +8774,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -9046,9 +8862,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -9086,10 +8906,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -9099,15 +8915,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -9191,9 +9003,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -9231,10 +9047,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -9244,15 +9056,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -9336,9 +9144,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -9376,10 +9188,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -9389,15 +9197,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -9481,9 +9285,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -9521,10 +9329,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -9534,15 +9338,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -9626,9 +9426,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -9666,10 +9470,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -9679,15 +9479,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -9771,9 +9567,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -9811,10 +9611,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -9824,15 +9620,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -9916,9 +9708,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
@@ -9956,10 +9752,6 @@
       "exp_time": 900,
       "count": 11,
       "special": {
-        "1715284500": {
-          "enabled": true,
-          "title": "front.End of day"
-        },
         "1715370900": {
           "enabled": true,
           "title": "front.End of week"
@@ -9969,15 +9761,11 @@
           "title": "front.End of month"
         }
       },
-      "start_time": 1715281200
+      "start_time": 1715308200
     },
     "deadtime": 300,
     "sum": 2,
     "schedule": [
-      [
-        1715261581,
-        1715284500
-      ],
       [
         1715347981,
         1715370900
@@ -10061,9 +9849,13 @@
       [
         1717767181,
         1717790100
+      ],
+      [
+        1718026381,
+        1718049300
       ]
     ],
-    "enabled": true,
+    "enabled": false,
     "minmax": {
       "max": 20000,
       "min": 2
